@@ -19,6 +19,7 @@ Educations
 
 # Publications
 + FedAWA: Aggregation Weight Adjustment in Federated Domain Generalization (ICIP 2024, oral) [[pdf]](https://ieeexplore.ieee.org/document/10647638)
++ FedTG: Text-guided Federated Domain Generalization (ICASSP 2025)
 
 Honors and Awards
 ======
